@@ -1,0 +1,47 @@
+h1 {
+    padding-top: 21px;
+    height: 80px;
+    color: black;
+    text-align:left;
+    background-color:rgb(255, 179, 112);
+}
+
+input[type=submit] {
+    color: black;
+    background-color: rgb(255, 179, 112);
+    padding-left: 10;
+    padding-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+input[type=submit]:hover {
+    background-color: RGB(69,160,73);
+}
+
+form {
+    background-color: wheat;
+}
+
+label {
+    width: 250px;
+    display: inline-block;
+}
+
+.h-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+button {
+    background-color: rgb(255, 179, 112);
+}
+
+.header img{
+    float: left;
+    width: 80px;
+    height: 80px;
+    background: rgb(255, 179, 112);
+}
